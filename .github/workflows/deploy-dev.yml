@@ -7,7 +7,7 @@ name: deploy for dev
 on:
     push:
         branches:
-            - 'master' # 只针对 dev 分支
+            - 'dev' # 只针对 dev 分支
         paths:
             - '.github/workflows/*'
             - '__test__/**'
