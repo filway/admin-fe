@@ -38,7 +38,7 @@ jobs:
                   ssh zhouxiao@139.155.58.207 "
                     # 【注意】手动创建 /home/zhouxiao/filway-lego 目录
                     # 然后 git clone https://username:password@github.com/filway/admin-fe.git -b dev （私有项目，使用 github 用户名和密码下载）
-                    # 记得删除 origin ，否则会暴露 github 密码
+                    # 记得删除 origin ，否则会暴露 github密码
 
                     cd /home/zhouxiao/filway-lego/admin-fe;
                     git remote add origin https://filway:${{secrets.ZX_PASSWORD}}@github.com/filway/admin-fe.git;
