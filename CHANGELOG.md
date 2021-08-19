@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/filway/admin-fe/compare/v1.1.1...v1.1.2) (2021-08-19)
+
+
+### Bug Fixes
+
+* 去掉test脚本 ([b99140f](https://github.com/filway/admin-fe/commit/b99140ff838352b246e019220322c461e383e6e9))
+
 ## [1.1.1](https://github.com/filway/admin-fe/compare/v1.1.0...v1.1.1) (2021-08-19)
 
 
