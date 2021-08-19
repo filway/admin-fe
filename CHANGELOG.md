@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/filway/admin-fe/compare/v1.1.0...v1.1.1) (2021-08-19)
+
+
+### Bug Fixes
+
+* 去掉lint脚本 ([0344805](https://github.com/filway/admin-fe/commit/034480593ed45fc497a20e2106e62b767f1a5522))
+
 # 1.1.0 (2021-08-19)
 
 
